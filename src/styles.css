@@ -1,0 +1,12 @@
+/**
+ * Global styles for @superinstance/ui
+ *
+ * Import this in your application's main CSS file:
+ * import '@superinstance/ui/styles.css';
+ */
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
